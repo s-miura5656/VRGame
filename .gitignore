@@ -59,8 +59,7 @@ sysinfo.txt
 crashlytics-build.properties
 
 # IgnoreFolders
+Oculus/
 Library/
 Temp/
-Oculus/
 Cartoon_Texture_Pack/
-XR/
